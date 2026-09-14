@@ -1,0 +1,31 @@
+{
+    "Delivery & Tracking":
+        "Missing, late, mis-delivered packages, order status, or tracking questions.",
+
+    "Returns & Refunds":
+        "Returns, refunds, refund delays, or problems with the return/refund process.",
+
+    "Account Access & Security":
+        "Login, password, account access, account lockout, or suspicious account activity.",
+
+    "Prime Membership & Benefits":
+        "Questions or problems related to Prime membership, subscription, eligibility, or Prime benefits.",
+
+    "Promotions & Offers":
+        "Questions or problems involving discounts, promotional offers, contests, giveaways, or promotional eligibility.",
+
+    "Digital Content & Device Issues":
+        "Problems with Kindle, Audible, Prime Video, digital content, Echo, Fire TV, or other Amazon devices/services.",
+
+    "Product Quality & Listing":
+        "Damaged, defective, incomplete, incorrect, or mis-described products and inaccurate listings.",
+
+    "Payment & Billing":
+        "Incorrect charges, payment problems, cashback, Amazon Pay, billing disputes, or payment-related issues.",
+
+    "Customer Service Experience":
+        "Complaints or feedback about Amazon support, response times, unhelpful agents, or difficulty reaching support.",
+
+    "Employment & Flex":
+        "Questions about Amazon Flex, jobs, hiring, or employment programs."
+}

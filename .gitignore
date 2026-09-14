@@ -1,0 +1,24 @@
+# Environment
+.env
+
+# Large datasets and generated artifacts
+data/amazon_pairs.csv
+data/twcs.csv
+artifacts/amazon_embeddings.npy
+
+# Embedding checkpoints
+amazon_embedding_checkpoints/
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Embedding checkpoints
+amazon_embedding_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
